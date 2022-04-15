@@ -1,0 +1,27 @@
+{
+  "name": "apsis-theme",
+  "publisher": "Apsis",
+  "displayName": "Apsis High Contrast Theme",
+  "description": "Apsis high-contrast color theme, including dark and light variations.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Apsis (Light)",
+        "uiTheme": "hc-light",
+        "path": "./themes/apsis-light.json"
+      },
+      {
+        "label": "Apsis (Dark)",
+        "uiTheme": "hc-black",
+        "path": "./themes/apsis-dark.json"
+      }
+    ]
+  }
+}
