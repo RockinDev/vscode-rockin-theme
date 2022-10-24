@@ -1,8 +1,8 @@
 {
-  "name": "apsis-theme",
-  "publisher": "Apsis",
-  "displayName": "Apsis High Contrast Theme",
-  "description": "Apsis high-contrast color theme, including dark and light variations.",
+  "name": "vscode-rockin-theme",
+  "publisher": "RockinDev",
+  "displayName": "Rockin High Contrast Theme",
+  "description": "Rockin high-contrast color theme, including dark and light variations.",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.66.0"
@@ -13,14 +13,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Apsis (Light)",
+        "label": "Rockin (Light)",
         "uiTheme": "hc-light",
-        "path": "./themes/apsis-light.json"
+        "path": "./themes/rockin-light.json"
       },
       {
-        "label": "Apsis (Dark)",
+        "label": "Rockin (Dark)",
         "uiTheme": "hc-black",
-        "path": "./themes/apsis-dark.json"
+        "path": "./themes/rockin-dark.json"
       }
     ]
   }

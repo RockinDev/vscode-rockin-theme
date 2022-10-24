@@ -1,6 +1,6 @@
-# Apsis Visual Studio Code Themes
+# RockinDev Visual Studio Code Themes
 
-Apsis high-contrast themes for Visual Studio Code, featuring both dark and light variants so that nothing stands in the way of you and the code. Enjoy!
+RockinDev's high-contrast themes for Visual Studio Code, featuring both dark and light variants so that nothing stands in the way of you and the code. Enjoy!
 
 ## Installation (Linux / macOS)
 

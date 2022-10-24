@@ -12,8 +12,8 @@ CWD = os.getcwd()
 
 THEME_FILES = [
   'package.json',
-  'themes/apsis-light.json',
-  'themes/apsis-dark.json'
+  'themes/rockin-light.json',
+  'themes/rockin-dark.json'
 ]
 
 def install_theme(extension_dir, extension_name):
