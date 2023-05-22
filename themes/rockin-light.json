@@ -170,10 +170,10 @@
     ////////////////////////////////////////////////////////////////
     "diffEditor.diagonalFill": "#ccc",
     "diffEditor.border": "#aaa",
-    "diffEditor.insertedTextBackground": "#0f03",
-    "diffEditor.insertedTextBorder": "#0000",
-    "diffEditor.removedTextBackground": "#f003",
-    "diffEditor.removedTextBorder": "#0000",
+    "diffEditor.insertedTextBackground": "#0f06",
+    "diffEditor.insertedTextBorder": "#eee",
+    "diffEditor.removedTextBackground": "#f006",
+    "diffEditor.removedTextBorder": "#eee",
 
     ////////////////////////////////////////////////////////////////
     // SIDE BAR
